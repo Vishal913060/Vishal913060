@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kokat</h1>
-<h3 align="center">Am passionate about web development</h3>
+<h3 align="center">I am passionate about web development</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal913060" alt="vishal913060" /></a> </p>
 
